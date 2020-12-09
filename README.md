@@ -26,7 +26,7 @@
 			<td><img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </td>
 			<td rowspan="5">
 			<p align="center">
-				<a href="https://github.com/adityadees">
+				<a href="https://github.com/ridwanzal">
 					<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadees&theme=vue&layout=compact" />
 				</a>
 				</p>
@@ -53,7 +53,7 @@
 			<td><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="30" height="30"/> </td>
 			<td rowspan="5">
 				<p align="center">
-					<a href="https://github.com/adityadees">
+					<a href="https://github.com/ridwanzal">
 					<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityadees&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
 					</a>
 				</p>
@@ -81,19 +81,19 @@
 <h3> Connect with Me </h3>
 <p align="center">
 	<a href="https://ridwanzal.com">
-		<img src="https://img.shields.io/badge/-adityadees.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/>
+		<img src="https://img.shields.io/badge/-ridwanzal.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/>
 	</a>
 	<a href="https://www.linkedin.com/in/mridwanzalbina/">
-		<img src="https://img.shields.io/badge/-Aditya%20Dharmawan%20Saputra-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
+		<img src="https://img.shields.io/badge/-M.%20Ridwan%Zalbina-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
 	</a>
 	<a href="mailto:zalbinaridwan@gmail.com">
-		<img src="https://img.shields.io/badge/-adityadees@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+		<img src="https://img.shields.io/badge/-zalbinaridwan@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
 	</a>
 	<a href="https://instagram.com/ridwanzal">
-		<img src="https://img.shields.io/badge/-@adityadees-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+		<img src="https://img.shields.io/badge/-@ridwanzal-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 	</a>
 	<a href="https://www.github.com/ridwanzal">
-		<img src="https://img.shields.io/github/followers/adityadees?style=flat-square&logo=Github&logoColor=white"/>
+		<img src="https://img.shields.io/github/followers/ridwanzal?style=flat-square&logo=Github&logoColor=white"/>
 	</a>
 </p>
 
@@ -102,7 +102,7 @@
 	<a href="https://github.com/adityadees/adityadees/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook">
 		<img src="https://img.shields.io/badge/-Write%20into%20my%20guest%20book-red?style=flat-round"/>
 	</a>
-	<a href="https://komarev.com/ghpvc/?username=adityadees">
-		<img src="https://komarev.com/ghpvc/?username=adityadees"/>
+	<a href="https://komarev.com/ghpvc/?username=ridwanzal">
+		<img src="https://komarev.com/ghpvc/?username=ridwanzal"/>
 	</a>
 </p>
