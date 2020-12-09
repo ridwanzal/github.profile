@@ -29,7 +29,7 @@
 			<td rowspan="5">
 			<p align="center">
 				<a href="https://github.com/ridwanzal">
-					<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadees&theme=vue&layout=compact" />
+					<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanzal&theme=vue&layout=compact" />
 				</a>
 				</p>
 			</td>
@@ -56,7 +56,7 @@
 			<td rowspan="5">
 				<p align="center">
 					<a href="https://github.com/ridwanzal">
-					<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityadees&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
+					<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ridwanzal&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
 					</a>
 				</p>
 			</td>
@@ -100,4 +100,12 @@
 	</a>
 </p>
 
+<p align="center">
+	<a href="https://github.com/ridwanzal/ridwanzal/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook">
+		<img src="https://img.shields.io/badge/-Write%20into%20my%20guest%20book-red?style=flat-round"/>
+	</a>
+	<a href="https://komarev.com/ghpvc/?username=ridwanzal">
+		<img src="https://komarev.com/ghpvc/?username=ridwanzal"/>
+	</a>
+</p>
 
