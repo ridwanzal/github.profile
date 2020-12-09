@@ -1,21 +1,17 @@
-<h1 align="center">Hi Guys 👋, I'm Aditya Dharmawan Saputra</h1>  
+<h1 align="center">Hello there 👋, My name is M. Ridwan Zalbina</h1>  
 
-<h3 align="center">Someone who adheres to idealism. It can be anything as long as you put in the hard work. Sarcasm is something you come up with a lot when you talk. I am fun to work with. I don't like doing the same job over and over again. i always like to learn new things from other people like helping others solve their problems.</h3>
+<h3 align="center">Thanks to take a mark in my github pages</h3>
 
 <h3> 👨 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Information System at [Sriwijaya University](https://unsri.ac.id).
-- 💼 &nbsp; Working as a Fullstack Developer at [SCAFOL](https://scafol.com/) and [SRITECH](https://github.com/Sriwijaya-Techno)
-- 🌱 &nbsp; Learning more about Systems Design.
-- ✍️ &nbsp; Music is my hobby.
-- 💬 Ask me about **PHP, VUE**
-- 📫 How to reach me **adityadees@sriwijaya.tech** | **adityadees@gmail.com**
+- 💼 &nbsp; Experiences in many roles in IT Industries, as FrontEnd Dev, Backend Dev & Mobile Dev and Technical Lead from SCAFOL
+- 💼 &nbsp; Freelance Graphic Designer since 2014, currently mastering UI/UX 
+- 🎓 &nbsp; Graduated as Computer Engineer (S.Kom) at [Sriwijaya University](https://unsri.ac.id).
+- 📫 How to reach me **zalbianridwan@gmailcom**
 
 <br/>
 <br/>
-
-
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <table>
@@ -84,45 +80,22 @@
 
 <h3> Connect with Me </h3>
 <p align="center">
-	<a href="https://adityadees.blogspot.com">
+	<a href="https://ridwanzal.com">
 		<img src="https://img.shields.io/badge/-adityadees.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/>
 	</a>
-	<a href="https://linkedin.com/in/adityadees">
+	<a href="https://www.linkedin.com/in/mridwanzalbina/">
 		<img src="https://img.shields.io/badge/-Aditya%20Dharmawan%20Saputra-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
 	</a>
-	<a href="mailto:adityadees@gmail.com">
+	<a href="mailto:zalbinaridwan@gmail.com">
 		<img src="https://img.shields.io/badge/-adityadees@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
 	</a>
-	<a href="https://instagram.com/adityadees">
+	<a href="https://instagram.com/ridwanzal">
 		<img src="https://img.shields.io/badge/-@adityadees-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 	</a>
-	<a href="https://stackoverflow.com/users/7590238/adityadees">
-		<img src="https://img.shields.io/badge/-@adityadees-F48024?style=flat-square&logo=stackoverflow&logoColor=white"/>
-	</a>
-	<a href="https://youtube.com/c/adityadees">
-		<img src="https://img.shields.io/badge/-@adityadees-C11A21?style=flat-square&logo=Youtube&logoColor=white"/>
-	</a>
-	<a href="https://facebook.com/ds.aditya">
-		<img src="https://img.shields.io/badge/-Aditya Dees-3A5894?style=flat-square&logo=Facebook&logoColor=white"/>
-	</a>
-	<a href="https://medium.com/@adityadees">
-		<img src="https://img.shields.io/badge/-@adityadees-1877F2?style=flat-square&logo=Medium&logoColor=white"/>
-	</a>
-	<a href="https://independent.academia.edu/adityadees">
-		<img src="https://img.shields.io/badge/-@adityadees-1877F2?style=flat-square&logo=Academia&logoColor=white"/>
-	</a>
-	<a href="https://www.twitter.com/adityadees">
-		<img src="https://img.shields.io/twitter/follow/adityadees?style=flat-square&logo=Twitter&logoColor=white"/>
-	</a>
-	<a href="https://www.github.com/adityadees">
+	<a href="https://www.github.com/ridwanzal">
 		<img src="https://img.shields.io/github/followers/adityadees?style=flat-square&logo=Github&logoColor=white"/>
 	</a>
-
-
 </p>
-
-> Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.
-> -- Steve Jobs
 
 
 <p align="center">
