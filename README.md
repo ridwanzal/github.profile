@@ -99,7 +99,7 @@
 
 
 <p align="center">
-	<a href="https://github.com/adityadees/adityadees/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook">
+	<a href="https://github.com/ridwanzal/ridwanzal/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook">
 		<img src="https://img.shields.io/badge/-Write%20into%20my%20guest%20book-red?style=flat-round"/>
 	</a>
 	<a href="https://komarev.com/ghpvc/?username=ridwanzal">
