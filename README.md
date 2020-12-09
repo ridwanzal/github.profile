@@ -23,7 +23,9 @@
 		</tr>
 		<tr>
 			<td><p align="left">💻 &nbsp;Language</p></td>
-			<td><img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </td>
+			<td><img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </td>
 			<td rowspan="5">
 			<p align="center">
 				<a href="https://github.com/ridwanzal">
@@ -65,11 +67,12 @@
 		</tr>
 		<tr>
 			<td><p align="left">🌐 &nbsp;Framework</p></td>
-			<td> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="30" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="30" height="30"/> </td>
+			<td> 
+				<img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="30" height="30"/> </td>
 		</tr>
 		<tr>
 			<td><p align="left">🖥 &nbsp;Software</p></td>
-			<td><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="30" height="30"/><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/><img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="30" height="30"/><img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="30" height="30"/> </td>
+			<td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/><img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="30" height="30"/><img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="30" height="30"/> </td>
 		</tr>
 		<tr>
 			<td><p align="left">⚙️ &nbsp; Others</p></td>
@@ -98,11 +101,3 @@
 </p>
 
 
-<p align="center">
-	<a href="https://github.com/ridwanzal/ridwanzal/issues/new?template=Guestbook_entry.md&title=Adding+<username>+to+guestbook">
-		<img src="https://img.shields.io/badge/-Write%20into%20my%20guest%20book-red?style=flat-round"/>
-	</a>
-	<a href="https://komarev.com/ghpvc/?username=ridwanzal">
-		<img src="https://komarev.com/ghpvc/?username=ridwanzal"/>
-	</a>
-</p>
